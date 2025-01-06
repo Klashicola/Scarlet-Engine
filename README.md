@@ -1,5 +1,5 @@
 ![](header.png?raw=true)
-
+# THIS IS A ARCHIVE! Klashicola NOR moonlight team no longer give active support to this project.
 A modded version of RSDKv4 with fan game development in mind.
 
 # **SUPPORT THE OFFICIAL RELEASES OF SONIC 1 & 2**
